@@ -1,0 +1,5 @@
+使用 Android Studio 打开 project 目录。
+配置本机 Android SDK 路径（local.properties）和 JDK 21 后同步 Gradle。
+工程依赖 PICO Spatial SDK 6.1.9。
+工程包不含构建缓存和本机路径配置；delivery 提供已构建 APK 与验证记录。
+邮箱登录注册后台尚未配置，请使用明确标注的体验模式。

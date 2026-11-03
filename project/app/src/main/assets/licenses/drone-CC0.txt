@@ -1,0 +1,3 @@
+fpv-racing-drone.glb — supplied by the user.
+Embedded asset copyright: Innerscene Corp, CC0.
+Derived GLB: four propellers split into independent pivot nodes for rotation. Original material and triangle geometry preserved.
